@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LightLoom]]></title>
+        <description><![CDATA[LightLoom]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 22:00:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Weave Your Senses]]></title>
+            <description><![CDATA[<article><h1>Weave Your Senses</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa10f5aa6faf6ce4373af304a03e0520b439c667.png"></article>]]></description>
+            <link>undefinedweave-your-senses/index.html</link>
+            <guid isPermaLink="false">25c46f2b-94d8-41e6-9b83-86d399bc5823</guid>
+            <pubDate>Wed, 24 Feb 2016 21:59:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
