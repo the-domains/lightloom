@@ -1,14 +1,26 @@
-layout_spectrum: 0.6273178
-color:
-  saturation: 0.5829897
-  lightness: 0.5264916
-  brandStrength: 0.6106849
-  rhythmicContrast: 0.5863061
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 1
+color:
+  saturation: 0.5488722
+  brandStrength: 0.5670426
+  lightness: 0.8120301
+  brandColors:
+    - '#0B0B0D'
+    - '#FFFFFF'
+    - '#C72027'
+    - '#BCBCBC'
+    - '#49494A'
+  rhythmicContrast: 0.6152882
+layout_spectrum: 0.6273178
 name: LightLoom
