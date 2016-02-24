@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
 color:
   saturation: 0.5488722
-  brandStrength: 0.5670426
-  rhythmicContrast: 0.6152882
+  brandStrength: 1
+  lightness: 0.8120301
   brandColors:
     - '#0B0B0D'
     - '#FFFFFF'
     - '#C72027'
     - '#BCBCBC'
     - '#49494A'
-  lightness: 0.8120301
+  rhythmicContrast: 0.6152882
+typography_spectrum: 1
 layout_spectrum: 0.1209273
 name: LightLoom
