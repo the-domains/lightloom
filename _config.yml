@@ -1,0 +1,14 @@
+layout_spectrum: 0.6273178
+color:
+  saturation: 0.5829897
+  lightness: 0.5264916
+  brandStrength: 0.6106849
+  rhythmicContrast: 0.5863061
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 1
+name: LightLoom
