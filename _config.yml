@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 1
 color:
   saturation: 0.5488722
   brandStrength: 0.1961153
-  lightness: 0.8120301
+  rhythmicContrast: 0.6152882
   brandColors:
     - '#0B0B0D'
     - '#FFFFFF'
     - '#C72027'
     - '#BCBCBC'
     - '#49494A'
-  rhythmicContrast: 0.6152882
-layout_spectrum: 0.1209273
+  lightness: 0.8120301
+typography_spectrum: 0.606383
+layout_spectrum: 0.1957447
 name: LightLoom
